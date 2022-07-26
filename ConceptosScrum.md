@@ -5,17 +5,18 @@ Recopilación de material de estudio sobre Scrum.
 # Concepto de ceremonias en Scrum
 Las ceremonias de la metodología Scrum son elementos importantes del proceso de desarrollo de software Agile basado en Scrum. No son reuniones sólo por el hecho de reunirse. Más bien, estas ceremonias de Scrum proporcionan el marco para que los equipos realicen el trabajo de manera estructurada, ayuden a establecer expectativas, capaciten al equipo para colaborar de manera efectiva y, en última instancia, alcancen los resultados. Sin embargo, si no se administran de manera adecuada, pueden abrumar el calendario y bajar un poco el valor que deben proporcionar.
 
-# Scrum (n): Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma
+# Definición de SCRUM 
+ Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma
 eficiente y creativa con el máximo valor.
 
 ## Scrum
  ● Es una enfoque ágil para la gestión de un proyecto. Más que una
-metodología o proceso, es un Marco de Trabajo.
-● Utiliza procesos interactivos/incrementales.
-● Orientado a resultados y compromisos.
-● No está restringido a proyectos de software solamente.
-● Su visión es opuesta a la propuesta por la metodología en
-cascada.
+  metodología o proceso, es un Marco de Trabajo.
+ ● Utiliza procesos interactivos/incrementales.
+ ● Orientado a resultados y compromisos.
+ ● No está restringido a proyectos de software solamente.
+ ● Su visión es opuesta a la propuesta por la metodología en
+ cascada.
 
 # Artefactos de SCRUM
 
