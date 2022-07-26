@@ -6,9 +6,12 @@ Recopilación de material de estudio sobre Scrum.
 Las ceremonias de la metodología Scrum son elementos importantes del proceso de desarrollo de software Agile basado en Scrum. No son reuniones sólo por el hecho de reunirse. Más bien, estas ceremonias de Scrum proporcionan el marco para que los equipos realicen el trabajo de manera estructurada, ayuden a establecer expectativas, capaciten al equipo para colaborar de manera efectiva y, en última instancia, alcancen los resultados. Sin embargo, si no se administran de manera adecuada, pueden abrumar el calendario y bajar un poco el valor que deben proporcionar.
 
 # Artefactos de SCRUM
+
 ##  Artefactos: Pila del producto, Pila del sprint, e Incremento.
 
-## La Pila de Producto (Product Backlog) es una lista ordenada. Cada una de las entradas de esta lista son posibles trabajos a seleccionarse para su realización durante una reunión de planificación de Sprint . El refinamiento de los ítems de la pila de producto es el acto de convertir esos ítems en elementos más detallados y precisos, en este proceso también se les asigna una prioridad y un “tamaño”. Puede incluir ítems para explorar las necesidades del cliente, analizar opciones técnicas, y otros ítems de trabajo tales como la corrección de errores (bugs) o la  configuración del entorno. Todo lo que esté en la pila de producto representa o aporta a conseguir el objetivo del producto (Product Goal) y este último es el objetivo que el equipo tiene que conseguir cumplir a largo plazo.
+## La Pila de Producto 
+
+(Product Backlog) es una lista ordenada. Cada una de las entradas de esta lista son posibles trabajos a seleccionarse para su realización durante una reunión de planificación de Sprint . El refinamiento de los ítems de la pila de producto es el acto de convertir esos ítems en elementos más detallados y precisos, en este proceso también se les asigna una prioridad y un “tamaño”. Puede incluir ítems para explorar las necesidades del cliente, analizar opciones técnicas, y otros ítems de trabajo tales como la corrección de errores (bugs) o la  configuración del entorno. Todo lo que esté en la pila de producto representa o aporta a conseguir el objetivo del producto (Product Goal) y este último es el objetivo que el equipo tiene que conseguir cumplir a largo plazo.
 
 ## Pila de Sprint
 
@@ -19,4 +22,4 @@ Incremento
 
 Es un paso concreto que acerca el desarrollo al objetivo del producto. Cada incremento agrega valor al incremento anterior y bajo un proceso de verificación, se asegura que todos los incrementos trabajen bien juntos.
 
-## Existe un compromiso entre el incremento y la Definición de Terminado (Definición de Hecho). Esta definición es una descripción formal del estado que debe alcanzar el incremento para cumplir con el nivel de calidad requerido para el producto. Si por alguna razón algún ítem de la pila de producto no cumple con la definición de terminado, no debe formar parte del entregable y ni siquiera ser presentado en la reunión de revisión de Sprint. En lugar de esto, debe volver a la pila de producto para ser considerado en un futuro.
+Existe un compromiso entre el incremento y la Definición de Terminado (Definición de Hecho). Esta definición es una descripción formal del estado que debe alcanzar el incremento para cumplir con el nivel de calidad requerido para el producto. Si por alguna razón algún ítem de la pila de producto no cumple con la definición de terminado, no debe formar parte del entregable y ni siquiera ser presentado en la reunión de revisión de Sprint. En lugar de esto, debe volver a la pila de producto para ser considerado en un futuro.
