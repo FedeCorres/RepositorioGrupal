@@ -18,7 +18,7 @@ Las ceremonias de la metodología Scrum son elementos importantes del proceso de
 Este artefacto, pila de Sprint (Sprint Backlog), delimita el trabajo necesario para alcanzar determinado incremento, y sirve para marcar el avance. También sirve como herramienta de comunicación del equipo. Esto es visible para todos y representa una imagen en tiempo real del trabajo que llevan los desarrolladores para alcanzar el Objetivo del Sprint (Sprint Meta). Este último se crea durante la reunión de planificación de Sprint y a lo largo de todo el ciclo, los desarrolladores lo tienen presente.
 Incremento
 
-## Un incremento de producto 
+## Incremento de producto 
 
 Es un paso concreto que acerca el desarrollo al objetivo del producto. Cada incremento agrega valor al incremento anterior y bajo un proceso de verificación, se asegura que todos los incrementos trabajen bien juntos.
 
