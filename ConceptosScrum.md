@@ -7,7 +7,9 @@ Las ceremonias de la metodología Scrum son elementos importantes del proceso de
 
 # Definición de SCRUM 
  Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma
-eficiente y creativa con el máximo valor.
+eficiente y creativa con el máximo valor.  En scrum se aplica un conjunto de buenas prácticas para trabajar de manera colaborativa y obtener así el mejor resultado 
+posible en proyectos complejos que demandan constantes cambios y adaptaciones.
+
 
 # Algunas características del Scrum
  #### ● Es una enfoque ágil para la gestión de un proyecto. Más que una metodología o proceso, es un Marco de Trabajo.
@@ -34,3 +36,12 @@ Incremento
 Es un paso concreto que acerca el desarrollo al objetivo del producto. Cada incremento agrega valor al incremento anterior y bajo un proceso de verificación, se asegura que todos los incrementos trabajen bien juntos.
 
 Existe un compromiso entre el incremento y la Definición de Terminado (Definición de Hecho). Esta definición es una descripción formal del estado que debe alcanzar el incremento para cumplir con el nivel de calidad requerido para el producto. Si por alguna razón algún ítem de la pila de producto no cumple con la definición de terminado, no debe formar parte del entregable y ni siquiera ser presentado en la reunión de revisión de Sprint. En lugar de esto, debe volver a la pila de producto para ser considerado en un futuro.
+
+# Roles - equipo SCRUM
+
+La unidad fundamental de Scrum es un equipo de personas (Scrum Team ). Cada equipo consiste en un Scrum Master, un propietario del producto ( Product 
+Owner) y desarrolladores ( Developers ).
+El equipo debe ser suficientemente pequeño como para ser ágil y grande como para completar una cantidad considerable de trabajo dentro de un Sprint.
+Normalmente los equipos están conformados por 10 personas o menos, ya que en general, los equipos pequeños se comunican mejor y son más productivos.
+El equipo es responsable de todas las actividades relacionadas al producto desde la colaboración con las partes interesadas, verificación, mantenimiento, 
+experimentación, desarrollo y cualquier otra cosa que pueda ser requerida.
